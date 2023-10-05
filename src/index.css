@@ -1,0 +1,7 @@
+body {
+  padding: 70px;
+  --bs-body-font-family: var(--bs-font-monospace);
+  --bs-body-line-height: 1.4;
+  --bs-body-bg: #2d3030;
+  --bs-body-color: white;
+}
